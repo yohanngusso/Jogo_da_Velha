@@ -1,0 +1,4 @@
+# Jogo da Velha
+
+# Definição
+O programa foi desenvolvido como parte da disciplina de Concepção de Soluções Baseadas em Aplicativos. Nessa disciplina, foi solicitado aos alunos que desenvolvessem seu próprio programa, após terem aprendido sobre outros programas existentes. Utilizando Python e Kivy, foi possível criar a interface gráfica e concretizar o projeto de um jogo clássico. Durante o desenvolvimento do jogo, aplicamos conceitos essenciais de Programação Orientada a Objetos e também utilizamos conceitos de matrizes, estabelecendo uma conexão prática entre a programação e a matemática. Esse projeto proporcionou uma valiosa oportunidade de aprendizado e aplicação dos conhecimentos adquiridos na disciplina.
